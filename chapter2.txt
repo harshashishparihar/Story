@@ -1,0 +1,1 @@
+So problem is that Currently I'm not able to commit a file in git.
